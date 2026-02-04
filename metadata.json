@@ -1,0 +1,7 @@
+{
+  "name": "B2U App - Invoice & Payment Manager",
+  "description": "Professional finance management for software companies. Handle recurring invoices, quotes, and project expenses with B2U branding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
